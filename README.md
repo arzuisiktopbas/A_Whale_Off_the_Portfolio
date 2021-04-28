@@ -24,7 +24,7 @@ In this homework assignment, I accomplished three main tasks:
 * In the "Daily Returns" plot, I am not able to see which portfolio is outperform the S&P 500, but Tiger and BHI have some one-day volitilities. 
 * In the **"Cumulative Returns" plot**, I can easily see that **the most outperformed** portfolios are **Algo1 and BERKSHIRE HATHAWAY INC .**
 
-![Cumulative Returns](https://github.com/arzuisiktopbas/python-homework/blob/main/Homework%233/Images/HW3-Cumulative%20Returns.png)
+![Cumulative Returns](https://github.com/arzuisiktopbas/03-A_Whale_Off_the_Portfolio/blob/main/Images/HW3-Cumulative%20Returns.png)
 
 #### Risk Analysis
 
