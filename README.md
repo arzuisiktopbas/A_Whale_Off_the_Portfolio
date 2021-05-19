@@ -5,7 +5,7 @@
 
 ## Background
 
-In this HW, I used quantitative analysis techniques with Python and Pandas to determine which portfolio is performing the best across many areas: volatility, returns, risk, and Sharpe ratios. And I created an analysis notebook that analyzes and visualizes the major metrics of the portfolios across all of these areas, and determine which portfolio outperformed the others.
+I used quantitative analysis techniques with Python and Pandas to determine which portfolio is performing the best across many areas: volatility, returns, risk, and Sharpe ratios. And I created an analysis notebook that analyzes and visualizes the major metrics of the portfolios across all of these areas, and determine which portfolio outperformed the others.
 
 I had the historical daily returns of several portfolios: some from the firm's algorithmic portfolios, some that represent the portfolios of famous "whale" investors like Warren Buffett, and some from the big hedge and mutual funds. 
 
